@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage{
+    text-align: center;
+    padding: 15px;
+}
+
+.img1{
+    width: 80vw;
+}
+
+.head{
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+
+.cap{
+    color: #616e7c;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.img{
+    width: 160px;
+    height: 90px;
+    margin: 5px;
+}
+
+.bg-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 20px;
+    text-align: center;
+}
+
+.card-item {
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+.card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.card-heading {
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #616e7c;
+    padding: 5px;
+}
+
+.card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card{
+    color: #323f4b;
+    background-color: #f6c56e;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: left;
+    padding: 25px;
+}
+
+.main{
+    text-align: left;
+    font-family: "Bree Serif";
+     font-size: 35px;
+}
+
+.para{
+    text-align: left;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button{
+    border-radius: 5px;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 10px;
+    padding: 5px;
+    height: 30px;
+    width: 120px;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.bg-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    padding: 25px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #ffffff;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size: 24px;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.b1 {
+    color: #171f46;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-color: #d7dfe9;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    border-width: 1px;
+    margin-right: 5px;
+    font-family: "Roboto";
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+
+}
+
+.b2 {
+    color: #ffffff;
+    background-color: #5752ab;
+    font-family: "Roboto";
+    border-radius: 5px;
+    border-color: #d7dfe9;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 5px;
+    border-width: 1px;
+    margin-left: 5px;
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+}
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-container {
+    padding: 20px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #ffffff;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    color: #323f4b;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #7b8794;
+}
+
+.btn {
+    padding: 5px;
+    font-size: 12px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-color: #323f4b;
+    border-width: 5px;
+    font-family: "Roboto";
+    height: 40px;
+    width: 120px;
+}
